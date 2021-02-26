@@ -16,17 +16,17 @@ remote_theme : "mmistakes/jekyll-theme-basically-basic"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: BBaegi's github page
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://bbaegi.github.io"
 author:
-  name:
+  name: bbaegi
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username: bbaegi
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
