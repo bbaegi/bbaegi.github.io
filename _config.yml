@@ -54,3 +54,5 @@ plugins:
 plugins:
   - jekyll-paginate
 paginate: 5
+
+future: true
