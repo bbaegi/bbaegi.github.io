@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pixhawk Jetson Baseboard does not publish battery state"
-date:   2024-12-11 18:00:00 +0900
+title:  "Pixhawk 6X does not publish battery state"
+date:   2024-12-10 18:00:00 +0900
 categories: jekyll update
 published: true
 ---
